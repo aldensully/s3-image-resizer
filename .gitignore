@@ -1,6 +1,6 @@
 .env
 venv/
-image-resizer-venv
+imageResizer-venv/
 env/
 pycache/
 *.pyc
